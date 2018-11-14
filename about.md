@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 ![](https://ae01.alicdn.com/kf/HTB1Z47sXOnrK1RjSszi760ptpXax.png)
