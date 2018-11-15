@@ -24,3 +24,5 @@ title: 【时戳资本】跨链研究报告
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a824/17.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a824/18.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a824/19.jpg)
+
+下载：[2018-08-24 时戳资本：跨链研究报告](https://github.com/shichuo/think-tank-2018/blob/master/a824/%E8%B7%A8%E9%93%BE%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
