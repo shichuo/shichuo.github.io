@@ -55,3 +55,5 @@ title: 【时戳资本】全球主要公链项目数据分析报告
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a821/48.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a821/49.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a821/50.jpg)
+
+下载：[2018-08-21 时戳资本：全球主要公链项目数据分析报告](https://github.com/shichuo/think-tank-2018/blob/master/a821/%E5%85%A8%E7%90%83%E4%B8%BB%E8%A6%81%E5%85%AC%E9%93%BE%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
