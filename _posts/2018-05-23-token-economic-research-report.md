@@ -19,3 +19,5 @@ title: 【时戳资本】Token经济研究报告
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a523/12.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a523/13.jpg)
 ![](https://raw.githubusercontent.com/shichuo/res2018/master/a523/14.jpg)
+
+下载：[2018-05-23 时戳资本：Token经济研究报告](https://github.com/shichuo/think-tank-2018/blob/master/a523/Token%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
